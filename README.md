@@ -11,4 +11,21 @@ This repository is dedicated to tracking my progress as I level up my Python ski
 
 ## 📁 Structure
 
-The repository is organized by the type of challenge or the source of the problem.
+The repository is organized by platform and category to keep solutions clean and accessible:
+
+```text
+python_upskilling/
+├── HackerRank/
+│   ├── Easy/
+│   │   └── challenge_name/
+│   │       ├── solution.py
+│   │       └── README.md (Problem description & approach)
+│   ├── Medium/
+│   ├── Hard/
+│   └── ...
+├── LeetCode/
+│   └── ...
+└── README.md
+```
+
+Each challenge folder contains the implementation and a short note on the logic used.
