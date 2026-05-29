@@ -1,0 +1,2 @@
+prod_A prod_B prod_A prod_C prod_D
+10 45 35 12
